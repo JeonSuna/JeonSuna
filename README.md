@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/reactquery-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/reactrouter-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=react&logoColor=black"> 
   
   <br>
   
 
-  <img src="https://img.shields.io/badge/figma-#F24E1E?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
