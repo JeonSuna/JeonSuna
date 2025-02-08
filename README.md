@@ -31,9 +31,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=react&logoColor=black"> 
   
   <br>
-  
+    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black"> 
+    <img src="https://img.shields.io/badge/vite-6E9F18?style=for-the-badge&logo=vite&logoColor=black"> 
+    <img src="https://img.shields.io/badge/zustand-FFDB00?style=for-the-badge&logo=zustand&logoColor=black"> 
+    
+  <br>
 
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-00B899?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
