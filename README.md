@@ -1,4 +1,4 @@
-## hi! I'm FE developer Suna 👋
+## Hi! I'm FE developer Suna 👋
 
 <!--
 **JeonSuna/JeonSuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
