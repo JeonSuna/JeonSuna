@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <br>
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black"> 
     <img src="https://img.shields.io/badge/vite-93FF9E?style=for-the-badge&logo=vite&logoColor=black"> 
-    <img src="https://img.shields.io/badge/zustand-FFDB00?style=for-the-badge&logo=zustand&logoColor=black"> 
+    <img src="https://img.shields.io/badge/zustand-FF4F8B?style=for-the-badge&logo=zustand&logoColor=black"> 
     
   <br>
 
